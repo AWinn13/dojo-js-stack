@@ -1,2 +1,2 @@
-# dojo_mern_stack
+# dojo_js_stack
 Repo for the MERN stack
